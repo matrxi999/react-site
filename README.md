@@ -1,3 +1,4 @@
+# IMPORTANT: Majority of this code was taken from an online course, this is not my code
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
